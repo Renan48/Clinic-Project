@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\renan\\OneDrive\\Área de Trabalho\\Projeto .Net e Angular\\ApiClinic\\ApiClinic.csproj": {}
+    "C:\\Users\\renan\\OneDrive\\Área de Trabalho\\Project\\Clinic\\ApiClinic\\ApiClinic.csproj": {}
   },
   "projects": {
-    "C:\\Users\\renan\\OneDrive\\Área de Trabalho\\Projeto .Net e Angular\\ApiClinic\\ApiClinic.csproj": {
+    "C:\\Users\\renan\\OneDrive\\Área de Trabalho\\Project\\Clinic\\ApiClinic\\ApiClinic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\renan\\OneDrive\\Área de Trabalho\\Projeto .Net e Angular\\ApiClinic\\ApiClinic.csproj",
+        "projectUniqueName": "C:\\Users\\renan\\OneDrive\\Área de Trabalho\\Project\\Clinic\\ApiClinic\\ApiClinic.csproj",
         "projectName": "ApiClinic",
-        "projectPath": "C:\\Users\\renan\\OneDrive\\Área de Trabalho\\Projeto .Net e Angular\\ApiClinic\\ApiClinic.csproj",
+        "projectPath": "C:\\Users\\renan\\OneDrive\\Área de Trabalho\\Project\\Clinic\\ApiClinic\\ApiClinic.csproj",
         "packagesPath": "C:\\Users\\renan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\renan\\OneDrive\\Área de Trabalho\\Projeto .Net e Angular\\ApiClinic\\obj\\",
+        "outputPath": "C:\\Users\\renan\\OneDrive\\Área de Trabalho\\Project\\Clinic\\ApiClinic\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

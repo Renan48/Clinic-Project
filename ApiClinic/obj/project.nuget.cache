@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Fn3OiUvziuxD6THle7tvbxYGftwp/oXH2EiGGk+GOid500pgyNK1DhynkjxIgN4pA+jlrJGg8UbKOXf6QtwTOQ==",
+  "dgSpecHash": "CDiJDkq2WV79qUW1A/nb7+vv3tvrBBGxOCYPXdTTH7ayJeC3jMGBs7692sjs8EK3PA0tffdpHTHvLEEM1BJmTw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\renan\\OneDrive\\Área de Trabalho\\Projeto .Net e Angular\\ApiClinic\\ApiClinic.csproj",
+  "projectFilePath": "C:\\Users\\renan\\OneDrive\\Área de Trabalho\\Project\\Clinic\\ApiClinic\\ApiClinic.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\renan\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\renan\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
